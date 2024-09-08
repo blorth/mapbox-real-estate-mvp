@@ -11,9 +11,6 @@ const Home: React.FC = () => {
           <h1 className='text-4xl font-semibold text-center text-gray-600'>
             MapBox MVP
           </h1>
-          <h5 className='mt-4 text-lg font-medium text-center text-gray-500'>
-            @bitcooker
-          </h5>
         </div>
       </div>
       <div className='flex flex-col mt-1'>
